@@ -1,0 +1,27 @@
+{
+  "name": "comp125",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "devserver": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMNDWG/COMP125-S2020-Lesson1A.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMNDWG/COMP125-S2020-Lesson1A/issues"
+  },
+  "homepage": "https://github.com/GMNDWG/COMP125-S2020-Lesson1A#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "light-server": "^2.7.0",
+    "lite-server": "^2.5.4"
+  }
+}
